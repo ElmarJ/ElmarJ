@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @ElmarJ
-- 👀 I’m interested in Music (Classical Singing, Bluegrass, Indie), Politics (Green, Left), Social Science (Politics, Sociology, Statistics), Programming (C#, Javascript / Typescript, SQL etc.), Amsterdam, Reading, 3D Games,
-- 🌱 I’m currently learning Unreal Engine 5, improving my 3D-modelling skills, violin
-- 💞️ I’m looking to collaborate on anything nerdy, fun and / or musical.
-- 🐦 I'm on Twitter https://twitter.com/elmarj
-- 🌻 I'm on Mastodon <a rel="me" href="https://mastodon.social/@elmarj">https://mastodon.social/@elmarj</a>
-- 📫 How to reach me: https://elmarjansen.nl
-
-<!---
-ElmarJ/ElmarJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Elmar Jansen
+- 🏠 Amsterdam, the Netherlands
+- 🏢 University of Amsterdam
+- - 🐦 [@elmarj](https://twitter.com/elmarj)
+- 🌻 <a rel="me" href="https://social.edu.nl/@elmarjansen">@elmarjansen@social.edu.nl</a>
+- 📫 https://elmarjansen.nl
+- 🎶 I enjoy listening to and making music:
+  - 🎸🎹🎻 play several string instruments
+  - 🪕 play in a bluegrass band
+  - 🧑‍🎤 do some classical singing - Bach predominantly
+  - 🎙️enjoy playing around with home recording and producing
+- 🧑‍🎓 I ❤️ social science (political behaviour, political theory, statistics)
+- 🤓 I ❤️ programming (C#, Javascript / Typescript, SQL, C/C++, Python, R)
+- 🏘️ I ❤️ Amsterdam and its history
+- 📦 I'm slowly getting better at 3D stuff (Unity / UE / Blender)
+- ✏️ I'm interested (and active) in politics (🍀 Green & ❤️Left)
